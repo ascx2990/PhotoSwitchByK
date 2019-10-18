@@ -15,7 +15,7 @@ Finally, I used the Java code and it can work.
 [kotlin tutorial1](http://www.codedata.com.tw/kotlin/kt09/)  
 [kotlin tutorial2](https://ithelp.ithome.com.tw/articles/10204643)  
 [Kotlin : apply, let, run1](https://julianchu.net/2018/05/05-kotlin.html)  
-[Kotlin : apply, let, run2](https://medium.com/@louis383/%E7%B0%A1%E4%BB%8B-kotlin-run-let-with-also-%E5%92%8C-apply-f83860207a0c)
+[Kotlin : apply, let, run2](https://medium.com/@louis383/%E7%B0%A1%E4%BB%8B-kotlin-run-let-with-also-%E5%92%8C-apply-f83860207a0c)  
 [Using data binding in Android](https://www.vogella.com/tutorials/AndroidDatabinding/article.html)  
 
 

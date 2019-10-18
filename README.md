@@ -1,9 +1,12 @@
-# PhotoSwitchByK
+# PhotoSwitch By Kotlin
 ## Foreword  
 ViewPager and RecyclerView for photo switch example.  
 Using kotlin and MVVM architecture.  
 If you have any questions, please feel free to contact me.  
-
+Image form
+[pic1](https://miro.medium.com/max/2463/1*9gGC8YelfY7poG9AB3lieQ.png)，
+[pic2](https://miro.medium.com/max/1014/1*XEgA1TTwXa5AvAdw40GFow.png)，
+[pic3](https://i1.kknews.cc/SIG=2ru26a9/ctp-vzntr/15301131549198023s8q5n0.jpg)  
 ## Promblem
 I can not use the @BindingAdapter in Lotlin.
 So i serch some solution forme 
@@ -12,6 +15,7 @@ So i serch some solution forme
 But I can't solve this problem. Maybe Kotlin has some problems with @BindingAdapter.
 Finally, I used the Java code and it can work.
 ## Reference  
+
 [kotlin tutorial1](http://www.codedata.com.tw/kotlin/kt09/)  
 [kotlin tutorial2](https://ithelp.ithome.com.tw/articles/10204643)  
 [Kotlin : apply, let, run1](https://julianchu.net/2018/05/05-kotlin.html)  

@@ -13,7 +13,9 @@ So i serch some solution forme
 [re1](https://qiita.com/yuyakaido/items/e5acf5f8ac31c4ed8c77) and 
 [re2](https://bluzwong.github.io/2016/02/22/%E4%BD%BF%E7%94%A8Kotlin%E9%81%87%E5%88%B0%E7%9A%84%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98/).  
 But I can't solve this problem. Maybe Kotlin has some problems with @BindingAdapter.
-Finally, I used the Java code and it can work.
+Finally, I used the Java code and it can work.  
+
+
 ## Reference  
 
 [kotlin tutorial1](http://www.codedata.com.tw/kotlin/kt09/)  
@@ -23,4 +25,11 @@ Finally, I used the Java code and it can work.
 [Using data binding in Android](https://www.vogella.com/tutorials/AndroidDatabinding/article.html)  
 
 
-
+## View
+<div>
+<img  src="https://github.com/ascx2990/PhotoSwitchByK/blob/master/pic/8xlu7-1s1t9.gif" width="30%" height="30%"  style="border:2px #ccc solid;padding:5px;">
+ </div>
+ <br>
+ <div>
+  <img  src="https://github.com/ascx2990/PhotoSwitchByK/blob/master/pic/s9ynw-3hrh7.gif" width="30%" height="30%"  style="border:2px #ccc solid;padding:5px;">
+ </div>
